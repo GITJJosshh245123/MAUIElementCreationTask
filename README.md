@@ -1,6 +1,6 @@
 # Description
 
-Clone the program to your local machine, add a new button element to the application, and set its properties to the following values:
+Clone the program to your local machine, and add a new **Button** element to the application, and set its properties to the following values:
 
 - `x:Name`: `CloseBtn`
 - `Text`: `Close`
