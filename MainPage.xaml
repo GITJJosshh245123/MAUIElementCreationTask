@@ -25,6 +25,11 @@
                 SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
             
             <!-- Create the Button here -->
+            < Button 
+               x:Name: CloseBtn
+               Text: Close
+               HorizontalOptions: Fill
+            />
         </VerticalStackLayout>
     </ScrollView>
 
